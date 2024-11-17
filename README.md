@@ -149,11 +149,13 @@
 
 <img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120">
 
-### Most Used Languages
+### Most Used Languages 
 
 <img alt="languages" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" align="center">
 
+<br/>
 
+<img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
 
 
 
