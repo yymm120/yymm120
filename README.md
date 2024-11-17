@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#The tools and languages ​​I liked most">
+      <a href="#The_tools_and_languages_​​I_liked_most">
         <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
       </a>
       <br>Rust
