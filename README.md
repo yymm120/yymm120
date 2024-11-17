@@ -151,7 +151,6 @@
 
 <h3> Last Year </h3>
 
-
 <picture>
   <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120&theme=github">
 
@@ -161,7 +160,7 @@
 </picture>
 
 
-### Most Used Languages 
+<he> Most Used Languages </h3>
 
 <picture>
   <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svs">
