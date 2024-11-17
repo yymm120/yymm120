@@ -1,12 +1,5 @@
 <div align="start">  
 <h2>Hello! I'm Allen,<span > a full-stack development engineer</span> </h2>
-<a href="https://github.com/yymm120">
-    <img src="https://komarev.com/ghpvc/?username=yymm120&abbreviated=true&style=for-the-badge" />
-</a>&nbsp;&nbsp;
-<a href=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yymm120?style=for-the-badge&labelColor=%23292929&color=%23555555">
-</a>
-<br/>
-<br/>
 <a href="README(zh-cn).md"><picture>
 <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/zh-black.svg">
 <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/zh-white.svg">
@@ -15,6 +8,15 @@
 <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/en-black.svg">
 <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/en-white.svg">
 <img align="right" alt="english" src="./img/en-white.svg"></picture></a>
+<a href="https://github.com/yymm120">
+    <img src="https://komarev.com/ghpvc/?username=yymm120&abbreviated=true&style=for-the-badge" />
+</a>&nbsp;&nbsp;
+<a href=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yymm120?style=for-the-badge&labelColor=%23292929&color=%23555555">
+</a>
+<br/>
+<br/>
+
+
 <a>
 <img alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
 </a>
