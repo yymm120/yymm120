@@ -1,7 +1,7 @@
 <div align="center">  
 ## Hello! I'm Allen, a full-stack development engineer
-
-<img src="https://komarev.com/ghpvc/?username=yymm120&abbreviated=true" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yymm120&abbreviated=true&style=for-the-badge" />
 
 ## 
 
