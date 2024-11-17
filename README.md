@@ -39,11 +39,13 @@
     <img alt="rust" src="./img/es6.svg">
     <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
+
 <span style="font-size: 20px">数据库:</span>
 <span style="display: flex; gap: 4px;">
 <img alt="typescript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="typescript" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </span>
+
 <span style="font-size: 20px">框架</span>
 <span style="display: flex; gap: 4px;">
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -51,11 +53,13 @@
 <img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img alt="arkUI" src="./img/arkui.svg">
 </span>
+
 <span style="font-size: 20px">包管理</span>
 <span style="display: flex; gap: 4px;">
 <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
 </span>
+
 <span style="font-size: 20px">工具</span>
 <span style="display: flex; gap: 4px;">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
