@@ -31,7 +31,8 @@
 
 </div>
 
-<a>
+
+<a align="end">
 <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg" alt="git-stats-overview" >
 </a>
 
