@@ -137,7 +137,6 @@
     <img alt="podman" src="./img/podman.svg">
 </span> 
 
-Github统计数据
 
 <div align="center">
 
@@ -155,14 +154,9 @@ Github统计数据
 
 <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" alt="git-stats-overview" >
 
-
 <img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
 
 
-<!-- <h3> 最常使用的语言</h3> -->
-
-<!-- <a align="right"> -->
-<!-- </a> -->
 
 </div>
 </div>
