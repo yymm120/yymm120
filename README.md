@@ -28,19 +28,25 @@
 </a>
 
 
+<a>
+ <picture>
+  <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg">
 
-<a align="end">
-  <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg" alt="git-stats-overview" align="right">
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only">
+
+  <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only" alt="git-stats-overview" align="right">
+    </picture>
 </a>
+
 
 <p align="start">
 
 <h3> About me </h3>
 
-- 一个充满热情的全栈开发人员.learning every day.
-- 目前正在学习鸿蒙开发.
-- 目前正在寻找鸿蒙开发相关的工作机会, 这是我的简历.
-- 近期项目: 基于鸿蒙ArkUI开发的日程管理工具.
+- a passionate and learns every day full-stack developer.
+- Currently learning Harmony Application developmen.
+- Currently looking for Harmony development positions.
+- Recent: Schedule tool app based on Harmony ArkUI.
 
 </p>
 
@@ -92,7 +98,7 @@
       <a href="#The-tools-and-languages-I-liked-most">
         <img src="./img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
-      <br>Debian
+      <br>Figma
     </td>
     <td align="center" width="96">
       <a href="#The-tools-and-languages-I-liked-most" >
@@ -103,8 +109,8 @@
   </tr>
 </table>
 
-### 技能
-<span style="font-size: 20px">编程语言</span>
+### Skills
+<span style="font-size: 18px">Program Languages</span>
 
 <span style="display:flex; align-items: end; gap: 4px">
     <img style="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" >
@@ -116,14 +122,14 @@
     <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </span>
 
-<span style="font-size: 20px">数据库:</span>
+<span style="font-size: 18px">Database</span>
 
 <span style="display: flex; gap: 4px;">
 <img alt="typescript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="typescript" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </span>
 
-<span style="font-size: 20px">框架</span>
+<span style="font-size: 18px">Frameworks</span>
 
 <span style="display: flex; gap: 4px;">
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -132,14 +138,14 @@
 <img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </span>
 
-<span style="font-size: 20px">包管理</span>
+<span style="font-size: 18px">Package Manage Tools</span>
 
 <span style="display: flex; gap: 4px;">
 <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
 </span>
 
-<span style="font-size: 20px">工具</span>
+<span style="font-size: 18px">Other Tools</span>
 
 <span style="display: flex; gap: 4px;">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
