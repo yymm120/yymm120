@@ -82,6 +82,7 @@
 
 ### 技能
 <span style="font-size: 20px">编程语言</span>
+
 <span style="display:flex; align-items: end; gap: 4px">
     <img style="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" >
     <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -93,12 +94,14 @@
 </span>
 
 <span style="font-size: 20px">数据库:</span>
+
 <span style="display: flex; gap: 4px;">
 <img alt="typescript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="typescript" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </span>
 
 <span style="font-size: 20px">框架</span>
+
 <span style="display: flex; gap: 4px;">
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Axum" src="./img/tokio.svg">
@@ -107,12 +110,14 @@
 </span>
 
 <span style="font-size: 20px">包管理</span>
+
 <span style="display: flex; gap: 4px;">
 <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img alt="bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
 </span>
 
 <span style="font-size: 20px">工具</span>
+
 <span style="display: flex; gap: 4px;">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
