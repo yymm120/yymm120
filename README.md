@@ -19,6 +19,7 @@
 
 
 <div style="display: flex; gap: 16px;">
+
 <div>
 
 ### About me 
@@ -30,7 +31,9 @@
 
 </div>
 
+<a>
 <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg" alt="git-stats-overview" >
+</a>
 
 </div>
 
