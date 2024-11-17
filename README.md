@@ -15,7 +15,7 @@
 <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/en-black.svg">
 <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/en-white.svg">
 <img align="right" alt="english" src="./img/en-white.svg"></picture></a>
-</a>
+<a>
 <img alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
 </a>
 <a>
