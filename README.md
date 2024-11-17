@@ -1,11 +1,12 @@
 <div align="center">  
-## Hello! I'm Allen, a full-stack development engineer
+<h2>Hello! I'm Allen, a full-stack development engineer</h2>
+
 <br/>
 <img src="https://komarev.com/ghpvc/?username=yymm120&abbreviated=true&style=for-the-badge" />
 
-## 
 
-### About me
+### About me 
+
 - 一个充满热情的全栈开发人员.learning every day.
 - 目前正在学习鸿蒙开发.
 - 目前正在寻找鸿蒙开发相关的工作机会, 这是我的简历.
