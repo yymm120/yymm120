@@ -29,53 +29,52 @@
 
 
 ### 技能
-- 编程语言: Javascript, Rust, Java
-
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" >
+<span style="font-size: 20px">编程语言</span>
+<span style="display:flex; align-items: end; gap: 4px">
+    <img style="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" >
     <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="rust" src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
-
-
-- 前端: Html5, Css, ES6, Typescript
-
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="rust" src="./img/es6.svg">
     <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-
-- 数据库: Postgres, Redis
-
-    <img alt="typescript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+<span style="font-size: 20px">数据库:</span>
+<span style="display: flex; gap: 4px;">
+<img alt="typescript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img alt="typescript" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
-
-
-- 框架: React, Axum, ArkUI, NextJs
-
-    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="Axum" src="./img/tokio.svg">
-    <img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img alt="arkUI" src="./img/arkui.svg">
-
-
-- 包管理: Npm, Bun.js
-
-    <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img alt="bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
-
-- 工具: Git, Linux, Podman
-
+</span>
+<span style="font-size: 20px">框架</span>
+<span style="display: flex; gap: 4px;">
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Axum" src="./img/tokio.svg">
+<img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img alt="arkUI" src="./img/arkui.svg">
+</span>
+<span style="font-size: 20px">包管理</span>
+<span style="display: flex; gap: 4px;">
+<img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img alt="bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
+</span>
+<span style="font-size: 20px">工具</span>
+<span style="display: flex; gap: 4px;">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img alt="podman" src="./img/podman.svg">
-- 
+</span> 
 
 Github统计数据
 
+### 最近30日github数据
+<img alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=react-dark">
 
-<img alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=github">
+
+
+### 加入github至今
+<img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120">
+
+### 最常使用的语言
 <img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
-<img alt="graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yymm120&theme=github">
-
 
 
 </div>
