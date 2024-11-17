@@ -151,9 +151,8 @@
 
 <h3> Most Used Languages </h3
 
-<img alt="overview" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg">
+<img alt="languages" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg">
 
-<h3> Most Used Languages </h3
 
 <br/>
 
