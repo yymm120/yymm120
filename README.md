@@ -6,8 +6,9 @@
 <a href=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yymm120?style=for-the-badge&labelColor=%23292929&color=%23555555">
 </a>
 <br/>
+<br/>
 <a>
-<img id="ww" alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
+<img alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
 </a>
 <a>
 <img alt="allen.luo@gmail.com" src="https://img.shields.io/badge/allen.luo%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
@@ -48,17 +49,18 @@
     <img alt="typescript" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 
 
-- 框架: Axum, ArkUI, NextJs
+- 框架: React, Axum, ArkUI, NextJs
 
-    <img alt="typescript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="typescript" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-    <img alt="typescript" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="Axum" src="./img/tokio.svg">
+    <img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img alt="arkUI" src="./img/arkui.svg">
 
 
-- 包管理: Npm, Bun.js, Cargo
+- 包管理: Npm, Bun.js
 
     <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+    <img alt="bun" src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white">
 
 - 工具: Git, Linux, Podman
 
@@ -66,27 +68,14 @@
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img alt="podman" src="./img/podman.svg">
 - 
-Things I code with
-Typescript
-Hormony
-Podman
-Github Actions
-Typescript
-Rust
-Javascript
-NPM
-NextJs
-Rollup
-HTML5
-Bun.js
-MongoDB
-Postgres
-Axum
 
 Github统计数据
 
 
-My latest posts
+<img alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=github">
+<img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
+<img alt="graph" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yymm120&theme=github">
+
 
 
 </div>
