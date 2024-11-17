@@ -27,6 +27,9 @@
 - 目前正在寻找鸿蒙开发相关的工作机会, 这是我的简历.
 - 近期项目: 基于鸿蒙ArkUI开发的日程管理工具.
 
+
+> The tools and languages ​​I use most
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -105,8 +108,8 @@
 <span style="display: flex; gap: 4px;">
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Axum" src="./img/tokio.svg">
-<img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img alt="arkUI" src="./img/arkui.svg">
+<img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </span>
 
 <span style="font-size: 20px">包管理</span>
