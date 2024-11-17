@@ -20,7 +20,7 @@
 
 <div style="display: flex; gap: 16px;">
 
-<div>
+<div align="start">
 
 ### About me 
 
