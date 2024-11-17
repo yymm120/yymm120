@@ -139,14 +139,24 @@
 
 Github统计数据
 
-### 最近30日github数据
+<div align="center">
+
+<h3> Last 30 Days </h3>
 <img alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=react-dark">
 
 
 
-<!-- <h3> 加入github至今</h3> -->
 
-<img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120"><img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" alt="git-stats-overview" ><img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
+<h3> Last Year </h3>
+
+<img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120">
+
+<h3> Most Used Language </h3
+
+<img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" alt="git-stats-overview" >
+
+
+<img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
 
 
 <!-- <h3> 最常使用的语言</h3> -->
@@ -154,5 +164,6 @@ Github统计数据
 <!-- <a align="right"> -->
 <!-- </a> -->
 
+</div>
 </div>
 
