@@ -33,8 +33,6 @@
 </p>
 
 
-
-
 </br>
 
 
@@ -44,51 +42,51 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Go
+      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/javascript.svg" width="48" height="48" alt="Javascript" />
       </a>
-      <br>Python
+      <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/podman.svg" width="48" height="48" alt="Podman" />
       </a>
-      <br>Jsonnet
+      <br>Podman
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
-      <br>Kubernetes
+      <br>Ubuntu
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/postgresql.svg" width="48" height="48" alt="Postgres" />
       </a>
-      <br>Docker
+      <br>Postgres
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/photoshop.svg" width="48" height="48" alt="Photoshop" />
       </a>
-      <br>Grafana
+      <br>Photoshop
     </td>
   </tr>
 </table>
@@ -134,7 +132,7 @@
 <span style="display: flex; gap: 4px;">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img alt="podman" src="./img/podman.svg">
+    <img alt="podman" src="./img/podman-badge.svg">
 </span> 
 
 
