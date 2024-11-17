@@ -7,7 +7,15 @@
 </a>
 <br/>
 <br/>
-<a>
+<a href="README(zh-cn).md"><picture>
+<source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/zh-black.svg">
+<source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/zh-white.svg">
+<img align="right" alt="english" src="./img/zh-white.svg"></picture></a>
+<a href="README.md"><picture>
+<source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/en-black.svg">
+<source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/en-white.svg">
+<img align="right" alt="english" src="./img/en-white.svg"></picture></a>
+</a>
 <img alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
 </a>
 <a>
@@ -16,14 +24,7 @@
 <a>
 <img alt="www.allendev.me" src="https://img.shields.io/badge/www.allendev.me-blue?style=flat-square&logo=homepage&logoColor=white">
 </a>
-<a><picture>
-<source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/zh-black.svg">
-<source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/zh-white.svg">
-<img align="right" alt="english" src="./img/zh-white.svg"></picture></a>
-<a><picture>
-<source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="./img/en-black.svg">
-<source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="./img/en-white.svg">
-<img align="right" alt="english" src="./img/en-white.svg"></picture></a>
+
 
 
 <a align="end">
