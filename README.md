@@ -47,43 +47,43 @@
       <br>Rust
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#The-tools-and-languages-I-liked-most">
         <img src="./img/javascript.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#The-tools-and-languages-I-liked-most">
         <img src="./img/podman.svg" width="48" height="48" alt="Podman" />
       </a>
       <br>Podman
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#The-tools-and-languages-I-liked-most">
         <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#The-tools-and-languages-I-liked-most" >
         <img src="./img/ubuntu.svg" width="48" height="48" alt="Ubuntu" />
       </a>
       <br>Ubuntu
     </td>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="#The-tools-and-languages-I-liked-most" >
         <img src="./img/postgresql.svg" width="48" height="48" alt="Postgres" />
       </a>
       <br>Postgres
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="#The-tools-and-languages-I-liked-most">
         <img src="./img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <br>Debian
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="#The-tools-and-languages-I-liked-most" >
         <img src="./img/photoshop.svg" width="48" height="48" alt="Photoshop" />
       </a>
       <br>Photoshop
@@ -139,22 +139,50 @@
 <div align="center">
 
 <h3> Last 30 Days </h3>
-<img alt="graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=react-dark">
 
+<picture>
+  <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=github">
+
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=react_dark">
+
+  <img alt="last-30-day-contribution" src="https://github-readme-activity-graph.vercel.app/graph?username=yymm120&theme=react-dark">
+</picture>
 
 
 <h3> Last Year </h3>
 
-<img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120">
+
+<picture>
+  <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120&theme=github">
+
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120&theme=github_dark">
+
+  <img alt="last-year-states" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120&theme=github_dark">
+</picture>
+
 
 ### Most Used Languages 
 
-<img alt="languages" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" align="center">
+
+<picture>
+  <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svs">
+
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only">
+
+  <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only" alt="Language Most Used" title="My writing on DEV">
+</picture>
 
 <br/>
 <br/>
 
-<img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
+<picture>
+  <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120">
+
+  <source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=dark">
+
+  <img alt="language2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=dark">
+</picture>
+
 
 
 
