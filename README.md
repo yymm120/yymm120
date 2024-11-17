@@ -5,7 +5,7 @@
 </a>&nbsp;&nbsp;
 <a href=""><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yymm120?style=for-the-badge&labelColor=%23292929&color=%23555555">
 </a>
-
+<br/>
 <a>
 <img id="ww" alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
 </a>
@@ -34,21 +34,37 @@
     <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="rust" src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
 
+
 - 前端: Html5, Css, ES6, Typescript
 
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="rust" src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
-    <img alt="rust" src="https://img.shields.io/badge/Rust-white?style=for-the-badge&logo=rust&logoColor=black">
+    <img alt="rust" src="./img/es6.svg">
     <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 
 - 数据库: Postgres, Redis
 
+    <img alt="typescript" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="typescript" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+
+
 - 框架: Axum, ArkUI, NextJs
+
+    <img alt="typescript" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="typescript" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    <img alt="typescript" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
 
 - 包管理: Npm, Bun.js, Cargo
 
+    <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+    <img alt="typescript" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+
 - 工具: Git, Linux, Podman
+
+    <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img alt="podman" src="./img/podman.svg">
 - 
 Things I code with
 Typescript
