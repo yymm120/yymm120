@@ -150,9 +150,11 @@
 <img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120">
 
 
+<img alt="overview" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg"  >
+
 <h3> Most Used Languages </h3
 
-<img alt="overview" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg"  >
+
 
 <br/>
 
