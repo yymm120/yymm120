@@ -152,11 +152,11 @@
 
 <h3> Most Used Languages </h3
 
-<img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" alt="git-stats-overview" >
+<img alt="overview" src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg"  >
 
 <br/>
 
-<!-- <img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github"> -->
+<img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
 
 
 
