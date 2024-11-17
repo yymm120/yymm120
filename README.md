@@ -17,22 +17,25 @@
 <img alt="www.allendev.me" src="https://img.shields.io/badge/www.allendev.me-blue?style=flat-square&logo=homepage&logoColor=white">
 </a>
 
-<div align="start">
+<a align="end">
+  <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg" alt="git-stats-overview" align="right">
+</a>
 
-### About me 
+<p align="start">
+
+<h3> About me </h3>
 
 - 一个充满热情的全栈开发人员.learning every day.
 - 目前正在学习鸿蒙开发.
 - 目前正在寻找鸿蒙开发相关的工作机会, 这是我的简历.
 - 近期项目: 基于鸿蒙ArkUI开发的日程管理工具.
 
-</div>
+</p>
 
 
-<a align="end">
-  <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg" alt="git-stats-overview" align="right">
-</a>
 
+
+</br>
 
 
 ###  The tools and languages ​​I use most
