@@ -18,7 +18,8 @@
 </a>
 
 
-
+<div style="display: flex; gap: 16px;">
+<div>
 
 ### About me 
 
@@ -27,8 +28,12 @@
 - 目前正在寻找鸿蒙开发相关的工作机会, 这是我的简历.
 - 近期项目: 基于鸿蒙ArkUI开发的日程管理工具.
 
+</div>
 
-> The tools and languages ​​I use most
+<img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/overview.svg" alt="git-stats-overview" >
+</div>
+
+###  The tools and languages ​​I use most
 
 <table>
   <tr>
