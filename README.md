@@ -212,3 +212,57 @@
 </div>
 </div>
 
+<!-- 
+
+https://zxl19.github.io/github-profile/
+
+标签
+Shields.io
+Simple Icons
+996icu/996.ICU
+badges/shields
+simple-icons/simple-icons
+othneildrew/Best-README-Template
+alexandresanlim/Badges4-README.md-Profile
+trekhleb/state-of-the-art-shitcode
+antonkomarev/github-profile-views-counter
+Aikoyori/ProgrammingVTuberLogos
+gjbae1212/hit-counter
+jwenjian/visitor-badge
+a-maliarov/awesome-shields
+
+统计信息
+anuraghazra/github-readme-stats
+abhisheknaiidu/awesome-github-profile-readme
+tipsy/profile-summary-for-github
+lowlighter/metrics
+star-history/star-history
+ryo-ma/github-profile-trophy
+DenverCoder1/github-readme-streak-stats
+durgeshsamariya/awesome-github-profile-readme-templates
+yihong0618/running_page
+vn7n24fzkq/github-profile-summary-cards
+Ashutosh00710/github-readme-activity-graph
+elangosundar/awesome-README-templates
+yoshi389111/github-profile-3d-contrib
+songquanpeng/stats-cards
+zerosoul/github-star-stats
+Star Charts
+RevolverMaps
+ClustrMaps
+Free website hit counter
+不蒜子-极简网页计数器
+
+美化
+fangpenlin/avataaars-generator
+DenverCoder1/readme-typing-svg
+github-contribution-grid-snake
+
+参考
+GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎
+几条经验美化你的GitHub开源项目-简书
+使用Gist让你的GitHub个人主页变酷-z2z23n0的文章-知乎
+Github个人首页美化指北-AntzUhl的文章-知乎
+GitHub上这款Q版头像生成器，快被网友玩坏了…-GitHub Daily的文章-知乎
+
+ -->
