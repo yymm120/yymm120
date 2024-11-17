@@ -145,14 +145,17 @@
 
 
 
-
 <h3> Last Year </h3>
 
 <img alt="graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120">
 
-<h3> Most Used Language </h3
+
+<h3> Most Used Languages </h3
 
 <img src="https://raw.githubusercontent.com/yymm120/github-stats/refs/heads/master/generated/languages.svg" alt="git-stats-overview" >
+
+<br/>
+
 
 <img alt="graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yymm120&theme=github">
 
