@@ -122,7 +122,7 @@
 <span style="display: flex; gap: 4px;">
 <img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img alt="Axum" src="./img/tokio.svg">
-<img alt="arkUI" src="./img/arkui.svg">
+<!-- <img alt="arkUI" src="./img/arkui.svg"> -->
 <img alt="nextjs" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 </span>
 
