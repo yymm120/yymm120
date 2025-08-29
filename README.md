@@ -47,9 +47,8 @@
 <h3> About me </h3>
 
 - a passionate and learns every day full-stack developer.
-- Currently learning Harmony Application developmen.
-- Currently looking for Harmony development positions.
-- Recent: Schedule tool app based on Harmony ArkUI.
+- Currently learning Rust Application developmen.
+- Currently looking for Rust development positions.
 
 </p>
 
