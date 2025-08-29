@@ -1,5 +1,5 @@
 <div align="start">  
-<h2>Hi! 我是Allen,<span > 是一名全栈开发程序员</span> </h2>
+<h2>Hi! 我是Allen,<span > 是一名Rust-React全栈开发程序员</span> </h2>
 <a href="https://github.com/yymm120">
     <img src="https://komarev.com/ghpvc/?username=yymm120&abbreviated=true&style=for-the-badge" />
 </a>&nbsp;&nbsp;
@@ -33,9 +33,8 @@
 <h3> 简介 </h3>
 
 - 一个充满热情的, 持续学习的全栈开发人员.
-- 目前正在学习鸿蒙开发.
-- 目前正在寻找鸿蒙开发相关的工作机会.
-- 近期项目(编码中): 基于鸿蒙ArkUI开发的日程管理工具.
+- 目前正在学习Rust开发.
+- 目前正在寻找Rust开发相关的工作机会.
 
 </p>
 
