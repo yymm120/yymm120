@@ -24,11 +24,11 @@
 <img alt="allen" src="https://img.shields.io/badge/allen-blue?style=flat-square&logo=wechat&logoColor=white">
 </a>
 <a>
-<img alt="allen.luo@gmail.com" src="https://img.shields.io/badge/allen.luo%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white">
+<img alt="allen.luo@gmail.com" src="https://img.shields.io/badge/1208401731%40qq.com-blue?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a>
-<img alt="www.allendev.me" src="https://img.shields.io/badge/www.allendev.me-blue?style=flat-square&logo=homepage&logoColor=white">
-</a>
+<!-- <a> -->
+<!-- <img alt="www.allendev.me" src="https://img.shields.io/badge/www.allendev.me-blue?style=flat-square&logo=homepage&logoColor=white"> -->
+<!-- </a> -->
 
 <!-- Stats of Generted from git-stats project -->
 <a>
