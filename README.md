@@ -173,6 +173,7 @@
 
 <h3> Last Year </h3>
 
+<!-- 
 <picture>
   <source media="(min-width: 768px) and (prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120&theme=github">
 
@@ -180,7 +181,7 @@
 
   <img alt="last-year-states" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yymm120&theme=github_dark">
 </picture>
-
+-->
 
 <h3> Most Used Languages </h3>
 
